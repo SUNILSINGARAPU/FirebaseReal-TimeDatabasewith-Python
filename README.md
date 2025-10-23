@@ -4,4 +4,4 @@ cd FirebaseReal-TimeDatabasewith-Python
 
 pip install streamlit firebase-admin
 
-streamlit run firebase-admin.py
+streamlit run FirebaseReal-TimeDatabasewith Python.py
